@@ -1,5 +1,5 @@
 # MAE693-reinforcement-learning
 
-For the purposes of this class, each homework assignment will be uploaded to a separate branch.
+Homework 1 .ipynb file. 
 
-Homework 1 can be found at
+Note that this file requires user input to demonstrate the desired output. I also included functionality to test random scenarios if you would like to verify the driver is performing as expected. 
